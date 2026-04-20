@@ -104,11 +104,6 @@ README.md
 ### Task 2: State Management & Advanced Interception
 
 * Remove checkbox and verify it disappears
-* Use `cy.intercept()` to:
-
-  * Capture the XHR request
-  * Assert response status is **200**
-
 * Validate `"It's gone!"` message
 * Enable input field safely using a guard condition
 * Type: `Cypress Challenge`
@@ -144,14 +139,13 @@ This approach demonstrates understanding of:
 ### Cypress Best Practices
 
 * No hard waits (`cy.wait(time)`)
-* Network synchronization using `cy.intercept()` where applicable
 * Leveraging Cypress automatic waiting for stability
 * Dynamic element handling without fragile selectors
 * Assertions used as guards for reliability
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 * Node.js (v14 or higher recommended)
 * npm
