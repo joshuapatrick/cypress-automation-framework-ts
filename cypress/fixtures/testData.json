@@ -1,0 +1,13 @@
+{
+  "task1": {
+    "rowValue": "Iuvaret0",
+    "buttonIndex": 0
+  },
+  "task2": {
+    "inputText": "Cypress Challenge"
+  },
+  "task3": {
+    "shadowText": "Let's have some different text!",
+    "frameText": "MIDDLE"
+  }
+}
