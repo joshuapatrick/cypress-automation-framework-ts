@@ -1,4 +1,4 @@
-# Cypress Automation Framework (Coding Exam)
+# Cypress Automation Framework
 
 This repository contains an end-to-end test suite built using **Cypress with TypeScript**.
 It demonstrates handling of complex UI scenarios such as **dynamic DOM elements**, **network-driven state changes**, and **Shadow DOM / iframe interactions** using a clean and scalable framework.
